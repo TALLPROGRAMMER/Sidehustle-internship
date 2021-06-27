@@ -15,3 +15,16 @@
  ?>
     </body>
     </html>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+    <?php
+   function sum($One, $Two){
+       echo $One + $Two;
+   }
+   sum(2,3)
+    ?>
+    </body
+</html>
